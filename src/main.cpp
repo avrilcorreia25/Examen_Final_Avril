@@ -1,3 +1,3 @@
-extern "C" void app main(){
-
-}
+extern "C" void app_main(){
+ 
+};
